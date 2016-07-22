@@ -1,0 +1,19 @@
+.uno{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	position: static;
+}
+.dos{
+	width: 120px;
+	height: 120px;
+	background-color: purple;
+	position: absolute;
+	left: 47px;
+	top:47px;
+}
+.tres{
+	width: 60px;
+	height: 60px;
+	background-color: yellow;
+}
